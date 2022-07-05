@@ -36,5 +36,5 @@
 
   ***
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjo7919&theme=maroongold&show_icons=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjo7919&layout=compact&theme=maroongold&hide=ipynb&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjo7919&theme=highcontrast&show_icons=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjo7919&layout=compact&theme=highcontrast&hide=ipynb&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
