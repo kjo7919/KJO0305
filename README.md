@@ -49,8 +49,8 @@
   <br>
 
   ***
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjo7919&theme=highcontrast&show_icons=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjo7919&layout=compact&theme=highcontrast&hide=ipynb)](https://github.com/kjo7919/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjo7919&theme=highcontrast&show_icons=true&hide=issues)
+
 
 </div>
