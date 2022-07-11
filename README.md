@@ -1,7 +1,21 @@
 
+<div align="center">
 
+# 💫 About Me
+  
+  ![reversal](https://capsule-render.vercel.app/api?type=transparent&height=50&animation=twinkling&text=노력하는%20개발자%20권재언%20입니다%20&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=fddf68)
+  
+  <div align="left"><h2>Welcome to my Github and have a productive experience!</h2></div>
+  
+  <div align="left"><h4> 🎫 Certificated Korea IT Academy in Seoul</h4></div>
+  
+  <div align="left"><h4> 📧 gfjg12@naver.com</h4></div>  
+  
+  ***
+  
+  <br>
 
-
+# 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
@@ -37,4 +51,4 @@
   ***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjo7919&theme=highcontrast&show_icons=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjo7919&layout=compact&theme=highcontrast&hide=ipynb&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjo7919&layout=compact&theme=highcontrast&hide=ipynb&langs_count=5)](https://github.com/kjo7919/github-readme-stats)
