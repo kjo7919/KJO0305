@@ -51,6 +51,6 @@
   ***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjo7919&theme=highcontrast&show_icons=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjo7919&layout=compact&theme=highcontrast&hide=ipynb&langs_count=5)](https://github.com/kjo7919/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjo7919&layout=compact&theme=highcontrast&hide=ipynb)](https://github.com/kjo7919/github-readme-stats)
 
 </div>
