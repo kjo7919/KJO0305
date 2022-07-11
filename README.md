@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 💫 About Me
+# About Me
   
   ![reversal](https://capsule-render.vercel.app/api?type=transparent&height=50&animation=twinkling&text=노력하는%20개발자%20권재언%20입니다%20&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=fddf68)
   
